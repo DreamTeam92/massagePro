@@ -1583,7 +1583,7 @@ a.button:hover {
 }
 
 .close-icon {
-  background-image: url(images/close.png);
+  background-image: url(images/icons/closeLeftArrow.png);
   background-repeat: no-repeat;
   width: 70px;
   height: 70px;
@@ -1830,7 +1830,7 @@ div.pp_default .pp_loaderIcon {
 }
 
 div.pp_default .pp_close {
-  background-image: url(images/close.png);
+  background-image: url(images/icons/close.png);
   background-size: 30px 30px;
   margin-top: 5px;
   text-indent: -99999999px;
